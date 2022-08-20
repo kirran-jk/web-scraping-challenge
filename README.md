@@ -4,7 +4,7 @@ This repository contains the following:
 
 ### Web Scraping
 
-The following websites have been scraped:
+The following websites have been scraped using BeautifulSoup, Pandas, and Splinter.:
  
  * [Mars News Site](https://redplanetscience.com/)
 
@@ -14,7 +14,7 @@ The following websites have been scraped:
 
  * [Astrogeology site](https://marshemispheres.com/)
 
-[code](Missions_to_Mars/mission_to_mars.ipynb)
+Scraping code: [code](Missions_to_Mars/mission_to_mars.ipynb)
 
 ### Flask application
 
